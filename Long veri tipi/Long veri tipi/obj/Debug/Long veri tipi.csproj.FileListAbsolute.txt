@@ -1,0 +1,8 @@
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\Long veri tipi\Long veri tipi\bin\Debug\Long veri tipi.exe.config
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\Long veri tipi\Long veri tipi\bin\Debug\Long veri tipi.exe
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\Long veri tipi\Long veri tipi\bin\Debug\Long veri tipi.pdb
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\Long veri tipi\Long veri tipi\obj\Debug\Long veri tipi.csproj.AssemblyReference.cache
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\Long veri tipi\Long veri tipi\obj\Debug\Long veri tipi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\Long veri tipi\Long veri tipi\obj\Debug\Long veri tipi.csproj.CoreCompileInputs.cache
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\Long veri tipi\Long veri tipi\obj\Debug\Long veri tipi.exe
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\Long veri tipi\Long veri tipi\obj\Debug\Long veri tipi.pdb
